@@ -1,0 +1,42 @@
+body{
+ text-align:center;
+background-image: linear-gradient( lightblue 0%,pink 100% );
+  background-repeat:no-repeat;
+}
+img{
+  border-radius:50%;
+}
+h1{
+  text-shadow:2px 2px  #efaaf0;
+}
+#Bio {
+ padding:25px;
+ font-size:18;
+ text-align:center;
+background-image: linear-gradient( beige 0%,lightblue 100% );
+  background-repeat:no-repeat; 
+}
+
+.menu{
+list-style: none;
+font-family: cursive;
+top: 10px;
+right: 30px;
+cursor: pointer;
+color: black;
+}
+.li{
+display: inline;
+padding: 8px;
+}
+hr{
+position: relative;
+top: 20px;
+border: none;
+height: 9px;
+background: black;
+margin-bottom: 50px;
+width:100px;
+}
+
+
